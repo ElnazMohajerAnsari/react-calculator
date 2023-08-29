@@ -1,0 +1,26 @@
+* {
+  font-family: sans-serif;
+}
+
+input,
+button {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+input {
+  display: block;
+  margin-bottom: 20px;
+}
+
+button {
+  background: whitesmoke;
+  border: 1px solid gray;
+  margin-right: 5px;
+}
+
+.reset {
+  background: tomato;
+  color: white;
+}
